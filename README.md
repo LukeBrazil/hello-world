@@ -1,2 +1,5 @@
 # hello-world
-first file created
+
+Hello there!
+
+Luke here. New to this whole thing. I will be a fantastic coder. 
